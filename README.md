@@ -1,4 +1,4 @@
-# 🚀 Santander - Assistente de Investimentos com RPA & IA Generativa
+# 🚀 Assistente de Investimentos com RPA & IA Generativa
 
 Projeto desenvolvido para o desafio final do bootcamp **Santander / DIO**, criando uma solução de automação bancária de ponta a ponta que combina **RPA em Python**, orquestração de workflows no **n8n** e geração de mensagens personalizadas com **IA Generativa (OpenAI GPT-4o)**.
 
