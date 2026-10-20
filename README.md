@@ -7,13 +7,13 @@ Projeto desenvolvido para o desafio final do bootcamp **Santander / DIO**, crian
 ## 📸 Evidências de Execução Ponto a Ponto
 
 ### 1. Extração RPA em Python (Google Colab)
-![RPA Executado](docs/assets/extrair_clientes.ipynb_2.png)
+![RPA Executado](docs/assets/extrair_clientes.ipynb.png)
 
 ### 2. Workflow Orquestrado no n8n
 ![Workflow n8n](docs/assets/workflow_nos_n8n.png)
 
 ### 3. Tabela de Saída Formatada (HTML & JSON)
-![Saida Formatada](docs/assets/workflow_n8n_cod_in_javascript3.jpg)
+![Saida Formatada](docs/assets/workflow_n8n_cod_in_javascript3.png)
 
 ---
 
